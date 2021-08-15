@@ -7,3 +7,28 @@
 
 또 이 프로젝트에는 제약사항이 있는데 수업에서 배우고 사용한 방법을 통해 직접 network를 구성해야 하고, 기존의 opensource로 제공되는 pretrained model을 사용해서는 안된다. 결과적으로 자신이 사용한 기법이 직접 이해하고 사용한 것인지가 가장 중요하다.
 
+----------------------------
+# Image
+----------------------
+![](https://images.velog.io/images/mingii4922/post/cf940f4a-b5eb-4694-b78e-d3a0aca180d8/image.png)
+--
+총 15가지의 새 종류를 DeepLearning 알고리즘을 사용하여 분류하는 과정
+
+------------------------------
+
+# ConClusion
+---------------------------------
+### Public Leaderboard
+
+![](https://images.velog.io/images/mingii4922/post/89702279-7a94-4f49-a7fc-cccf87cf28ab/image.png)
+--
+### Private Leaderboard
+
+![](https://images.velog.io/images/mingii4922/post/5bb4be4f-aa7a-45a9-9da0-f1fc687f3722/image.png)
+--
+대회를 경험하며 pretrain model을 사용하지 않고, 데이터 전처리부터 수업시간에 배운 다양한 기법들을 통하여 본인의 힘으로 37명 중에서 상위권을 차지하였다.
+
+-----------------------------------
+대회 링크
+https://www.kaggle.com/c/detect-the-bird/leaderboard
+
