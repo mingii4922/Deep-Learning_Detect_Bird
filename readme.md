@@ -12,7 +12,7 @@
 ----------------------
 ![](https://images.velog.io/images/mingii4922/post/cf940f4a-b5eb-4694-b78e-d3a0aca180d8/image.png)
 --
-총 15가지의 새 종류를 DeepLearning 알고리즘을 사용하여 분류하는 과정
+총 15가지의 새 종류를 DeepLearning 알고리즘을 사용하여 분류
 
 ------------------------------
 
